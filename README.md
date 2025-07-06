@@ -124,7 +124,7 @@ I'm currently exploring **internships** and **entry-level software engineering r
 
 <h3 align="left">📊 My GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?user=s225282372&show_icons=true&locale=en&layout=compact" alt="s225282372" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s225282372&show_icons=true&locale=en&layout=compact" alt="s225282372" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s225282372&show_icons=true&locale=en" alt="s225282372" /></p>
 
