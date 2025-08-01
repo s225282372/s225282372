@@ -135,4 +135,7 @@ I'm currently exploring **internships** and **entry-level software engineering r
 
 ###
 
-💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+you know why C# developers wear glasses? 🤓
+because they can't C#(see sharp)! 😅
+
+haha, Happy Coding Man... 👨🏾‍💻
