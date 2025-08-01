@@ -119,7 +119,7 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 - 🎓 [IT Project Management System](https://github.com/s225282372/Project-Management-System_Fullstack_Incomplete.git) — is a full-stack web application designed for managing software development tasks in an IT team. It features role-based access for administrators, project managers, systems analysts, and web developers to securely manage users, assign tasks, and track project progress. 
 - 🎮 [Guessing Game GUI (Tkinter)](https://github.com/s225282372/Guessing-Game.git) — A fun number guessing game built with Python Tkinter  
-- 🧱 [ASP.NET Ticketing System](https://github.com/s225282372/Concert-Ticket-App.git) — A ticket management system with role-based access and EF
+- 🧱 [ASP.NET Ticketing System](https://github.com/s225282372/Concert-Ticket-App.git) — A C# console-based ticketing system that showcases real-world application of software design patterns by simulating ticket purchases, enhancements, and analytics for music concerts and events
 
 ###
 ### 🚀 Open to Opportunities
