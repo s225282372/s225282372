@@ -20,11 +20,14 @@
 <h3 align="left">👨‍💻 About Me </h3>
 
 <p align="left">
-I'm a final-year Software Engineering student passionate about full-stack development, clean code, and solving real-world problems with tech...<br><br>
-- 🔭 I’m building full-stack web apps with C#, React, and ASP.NET<br>
-- 📚 I'm currently learning software design patterns & clean architecture<br>
-- ⚡ In my free time I explore new tech, write clean code, and build projects
+I'm just a simple guy who's into tech, especially building things and figuring out how stuff works. I love gaming, I'm a huge soccer fan, and music keeps me going through everything (yes, even debugging). I'm also someone who really enjoys their own space — so if you see me online but quiet, I'm probably just vibing... 😄<br><br>
 </p>
+
+### 🔭 What I'm Working on :
+-  building full-stack web apps with **C#, React, and ASP.NET**
+-  currently learning **software design patterns** & **clean architecture**
+-  Exploring new tech and writing clean, maintainable code in my spare time
+
 
 ###
 
