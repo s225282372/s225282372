@@ -117,7 +117,8 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 <h3 align="left">📂 Featured Projects</h3>
 
-- 🎓 [IT Project Management System](https://github.com/s225282372/Project-Management-System_Fullstack_Incomplete.git) — is a full-stack web application designed for managing software development tasks in an IT team. It features role-based access for administrators, project managers, systems analysts, and web developers to securely manage users, assign tasks, and track project progress. 
+- 🎓 [Student Task Management System](https://github.com/s225282372/Project-Management-System_Fullstack_Incomplete.git) — This is an Android application designed to streamline task and module management for academic environments. It's a **Student Task Management System** that allows different user roles—**Admin**, **Instructor**, and **Student**—to manage tasks and modules.
+ 
 - 🎮 [Guessing Game GUI (Tkinter)](https://github.com/s225282372/Guessing-Game.git) — A fun number guessing game built with Python Tkinter  
 - 🧱 [ASP.NET Ticketing System](https://github.com/s225282372/Concert-Ticket-App.git) — A C# console-based ticketing system that showcases real-world application of software design patterns by simulating ticket purchases, enhancements, and analytics for music concerts and events
 
