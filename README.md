@@ -135,8 +135,5 @@ I'm currently exploring **internships** and **entry-level software engineering r
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s225282372&" alt="s225282372" /></p>
 
 ###
-
-you know why C# developers wear glasses? 🤓
-because they can't C#(see sharp)! 😅
-
-haha, Happy Coding Man... 👨🏾‍💻
+Happy Coding Man... 👨🏾‍💻
+Let's Get This Bread! 🫡
