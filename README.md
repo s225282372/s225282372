@@ -132,7 +132,7 @@ I'm currently exploring **internships** and **entry-level software engineering r
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s225282372&show_icons=true&locale=en" alt="s225282372" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s225282372&" alt="s225282372" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=s225282372" alt="s225282372" /></p>
 
 ###
 Happy Coding Man... 👨🏾‍💻
