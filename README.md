@@ -40,9 +40,6 @@ I'm just a simple guy who's into tech, especially building things and figuring o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" />
   
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react logo" />
-  
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" width="50" alt="python logo" />
   
   <img width="12" />
