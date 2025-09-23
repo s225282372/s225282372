@@ -20,7 +20,7 @@
 <h3 align="left">👨‍💻 About Me </h3>
 
 <p align="left">
-I'm just a simple guy who's into tech, especially building things and figuring out how stuff works. I love gaming, I'm a huge soccer fan, and music keeps me going through everything (yes, even debugging). I'm also someone who really enjoys their own space — so if you see me online but quiet, I'm probably just vibing... 😄<br><br>
+Just a simple guy who's into Tech, especially building things and figuring out how stuff works. I'm more into gaming, a huge soccer fan, and music keeps me going through everything (yes, even debugging). I'm also someone who really enjoys their own space — so if you see me online but quiet, I'm probably just vibing... 😄<br><br>
 </p>
 
 ### 🔭 What I'm Working on :
