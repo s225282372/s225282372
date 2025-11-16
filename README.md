@@ -79,9 +79,6 @@ Just a simple guy who's into Tech, especially building things and figuring out h
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
   
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   
   <img width="12" />
@@ -111,9 +108,8 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 <h3 align="left">📂 Featured Projects</h3>
 
+- 🎉 [EventifyApp](https://github.com/s225282372/EventifyApp.git) — is a full‑stack event management and service‑provider booking system built with ASP.NET Core Web API, Entity Framework Core, and a React.js frontend.
 - 🎓 [Student Task Management System](https://github.com/s225282372/Project-Management-System_Fullstack_Incomplete.git) — This is an Android application designed to streamline task and module management for academic environments. It allows different user roles—**Admin**, **Instructor**, and **Student**—to manage tasks and modules.
- 
-- 🎮 [Guessing Game GUI (Tkinter)](https://github.com/s225282372/Guessing-Game.git) — A fun number guessing game built with Python Tkinter  
 - 🧱 [ASP.NET Ticketing System](https://github.com/s225282372/Concert-Ticket-App.git) — A C# console-based ticketing system that showcases real-world application of software design patterns by simulating ticket purchases, enhancements, and analytics for music concerts and events
 
 ###
