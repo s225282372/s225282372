@@ -107,9 +107,8 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 <h3 align="left">📂 Featured Projects</h3>
 
 - 🎉 [EventifyApp](https://github.com/s225282372/EventifyApp.git) — is a full‑stack event management and service‑provider booking system built with ASP.NET Core Web API, Entity Framework Core, and a React.js frontend.
+- 🚗 [EmberDrive Car Rental Management System](https://github.com/s225282372/EmberDriveRentals.git) — is a full-stack car rental platform built with ASP.NET Core 8, featuring JWT authentication, advanced booking management, damage tracking, maintenance scheduling, and a comprehensive admin dashboard.
 - 🎓 [Student Task Management System](https://github.com/s225282372/Project-Management-System_Fullstack_Incomplete.git) — This is an Android application designed to streamline task and module management for academic environments. It allows different user roles—**Admin**, **Instructor**, and **Student**—to manage tasks and modules.
-- 🧱 [Task Management Web API](https://github.com/s225282372/DockerIntegrated_API.git) — is a simple modern ASP.NET Web API project built with Entity Framework Core and SQL Server.
-It demonstrates clean architecture principles with a separate Infrastructure Layer, proper database context management, and a To-Do management system to showcase backend development skills in C# and .NET.
 
 ###
 ### 🚀 Open to Opportunities
