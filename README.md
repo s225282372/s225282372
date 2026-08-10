@@ -31,7 +31,7 @@ Just a simple guy who's into Tech, currently serving as a Data Engineering Inter
 
 ###
 
-<h3 align="left">🛠️ Technologies I've Worked with (Languages & Tools ) :</h3>
+<h3 align="left"> Technologies I've Worked with (Languages & Tools ) :</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="csharp logo" />
@@ -84,23 +84,16 @@ Just a simple guy who's into Tech, currently serving as a Data Engineering Inter
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40" />
 
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
+
 
 </div>
 
 ###
 
-### 🛠️ Other Tools + :  
+###  Other Tools + :  
 Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
-
-<h3 align="left">💼 Tools I'm Exploring :</h3>
-
-<div align="center">
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
-  
-</div>
 
 ###
 
