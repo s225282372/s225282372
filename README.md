@@ -17,16 +17,16 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me </h3>
+<h3 align="left">👨‍💻 About Me : </h3>
 
 <p align="left">
-Just a simple guy who's into Tech, especially building things and figuring out how stuff works. I'm more into gaming, a huge soccer fan, and music keeps me going through everything (yes, even debugging). I'm also someone who really enjoys their own space — so if you see me online but quiet, I'm probably just vibing... 😄<br><br>
+Just a simple guy who's into Tech, currently serving as a Data Engineering Intern. I’m passionate about building scalable backend systems, database architecture, and automated data pipelines. Outside of coding, I'm into gaming, a huge soccer fan, and music keeps me going through everything (yes, even debugging). I also really enjoy my own space - so if you see me online but quiet, I'm probably just vibing... 😄<br><br>
 </p>
 
 ### 🔭 What I'm Working on :
--  building full-stack web apps with **C#, React, and ASP.NET**
--  currently learning **software design patterns** & **clean architecture**
--  Exploring new tech and writing clean, maintainable code in my spare time
+- engineering automated data pipelines, database architecture, and business intelligence reporting for enterprise-scale systems
+- building robust backend systems and full-stack applications with **C#, React, and ASP.NET Core**
+- applying **software design patterns** & **clean architecture** to write production-ready code
 
 
 ###
@@ -104,17 +104,17 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 ###
 
-<h3 align="left">📂 Featured Projects</h3>
+<h3 align="left">📂 Featured Projects :</h3>
 
 - 💲 [Secure Wallet & Transaction System](https://github.com/s225282372/Secure-Wallet-Transaction-System.git) — Enterprise-grade wallet system demonstrating production-ready backend engineering: ledger-based architecture, ACID compliance, concurrency safety, and immutable financial records.
 - 🎉 [EventifyApp](https://github.com/s225282372/EventifyApp.git) — is a full‑stack event management and service‑provider booking system built with ASP.NET Core Web API, Entity Framework Core, and a React.js frontend.
 - 🚗 [EmberDrive Car Rental Management System](https://github.com/s225282372/EmberDriveRentals.git) — is a backend-first, full-stack car rental management system built with ASP.NET Core 8 Web API and SQL Server, designed to model real-world rental workflows with a strong focus on security, business logic, and API design.
 
 ###
-### 🚀 Open to Opportunities
-I'm currently exploring **internships** and **entry-level software engineering roles**, especially in web or backend development.
+<h3 align="left"> Current Focus :</h3>
+Currently sharpening my skills in data engineering, backend architecture, and enterprise systems while gaining hands-on industry experience.
 
-<h3 align="left">📊 My GitHub Stats</h3>
+<h3 align="left"> My GitHub Stats: </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s225282372&show_icons=true&locale=en&layout=compact" alt="s225282372" /></p>
 
@@ -124,4 +124,3 @@ I'm currently exploring **internships** and **entry-level software engineering r
 
 ###
 Happy Coding Man... 👨🏾‍💻
-Let's Get This Bread! 🫡
