@@ -107,11 +107,9 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 <h3 align="left"> Current Focus :</h3>
 Currently sharpening my skills in data engineering, backend architecture, and enterprise systems while gaining hands-on industry experience.
 
-<h3 align="left"> My GitHub Stats: </h3>
+<h3 align="left"> Git Stats: </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s225282372&show_icons=true&locale=en&layout=compact" alt="s225282372" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s225282372&show_icons=true&locale=en" alt="s225282372" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=s225282372" alt="s225282372" /></p>
 
