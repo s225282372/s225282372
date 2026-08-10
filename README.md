@@ -101,7 +101,7 @@ Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 - 💲 [Secure Wallet & Transaction System](https://github.com/s225282372/Secure-Wallet-Transaction-System.git) — Enterprise-grade wallet system demonstrating production-ready backend engineering: ledger-based architecture, ACID compliance, concurrency safety, and immutable financial records.
 - 🎉 [EventifyApp](https://github.com/s225282372/EventifyApp.git) — is a full‑stack event management and service‑provider booking system built with ASP.NET Core Web API, Entity Framework Core, and a React.js frontend.
-- 🚗 [EmberDrive Car Rental Management System](https://github.com/s225282372/EmberDriveRentals.git) — is a backend-first, full-stack car rental management system built with ASP.NET Core 8 Web API and SQL Server, designed to model real-world rental workflows with a strong focus on security, business logic, and API design.
+- 🚗 [EmberDrive Car Rental Management System](https://github.com/s225282372/EmberDriveRentals.git) — A production-grade, full-stack car rental management system with enterprise-level security, multi-location operations, and real-time inventory tracking. Built to demonstrate backend expertise and modern application architecture.
 
 ###
 <h3 align="left"> Current Focus :</h3>
